@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Литература по демографии России</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
+        h1 { text-align: center; color: #43766C; }
+        h2 { color: #43766C; }
+        ul { list-style-type: none; padding: 0; }
+        li { margin-bottom: 10px; }
+        a { color: #0066cc; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <h1>Источники информации</h1>
+    
+    <h2>1. Основные статистические источники</h2>
+    <ul>
+        <li><a href="https://rosstat.gov.ru/folder/210/document/13207" target="_blank">Демографический ежегодник России (Росстат)</a></li>
+        <li><a href="https://zags.nalog.gov.ru/analytics/birth" target="_blank">Единый реестр записей актов гражданского состояния</a></li>
+        <li><a href="https://refru.ru/birth55.html" target="_blank">И.Г. Калабеков, "Российские реформы в цифрах и фактах"</a></li>
+        <li><a href="https://www.demoscope.ru/weekly/knigi/IDEM_library/pdf/book0126.pdf" target="_blank">Ю.А. Полякова, "Население России за 100 лет"</a></li>
+    </ul>
+    
+    <h2>2. Сводки и исследования ВШЭ</h2>
+    <ul>
+        <li><a href="https://www.demoscope.ru/weekly/2011/0475/tema02.php" target="_blank">Сводки института демографии ВШЭ (2011)</a></li>
+        <li><a href="https://www.demoscope.ru/weekly/2014/0623/analit02.php#_ftn3" target="_blank">Аналитика ВШЭ (2014)</a></li>
+        <li><a href="https://www.demoscope.ru/weekly/2008/0343/lisa01.php" target="_blank">Демография ВШЭ (2008)</a></li>
+        <li><a href="https://warlib.site/demographic-situation-in-the-civil-war/" target="_blank">Военно-научный архив: Демография в Гражданскую войну</a></li>
+        <li><a href="https://new-rabochy.livejournal.com/5985917.html" target="_blank">Новый рабочий: Демография</a></li>
+        <li><a href="https://users.livejournal.com/-devol-/178546.html" target="_blank">Devol: Демографические данные</a></li>
+        <li><a href="https://cyberleninka.ru/article/n/istoriya-rozhdaemosti-v-rossii-ot-pokoleniya-k-pokoleniyu/viewer" target="_blank">С.В. Захаров, "История рождаемости в России"</a></li>
+        <li><a href="https://rosstat.gov.ru/folder/12781" target="_blank">Росстат: Раздел Демография</a></li>
+    </ul>
+    
+    <h2>3. Законодательство СССР</h2>
+    <ul>
+        <li><a href="https://www.consultant.ru/cons/cgi/online.cgi?req=doc&base=ESU&n=4068#fhspbhUc9DdazGdI1" target="_blank">Постановление ЦИК 1936 г. о запрещении абортов</a></li>
+        <li><a href="https://www.consultant.ru/cons/cgi/online.cgi?req=doc&base=ESU&n=8015#KrRqbhUXKzz6T3EX" target="_blank">Постановление о помощи матерям (СССР)</a></li>
+        <li><a href="https://www.consultant.ru/cons/cgi/online.cgi?req=doc&base=ESU&n=7182#i5fqbhURqbsd1kF2" target="_blank">Указ о "Матери-героине" и помощи семьям</a></li>
+    </ul>
+    
+    <h2>4. Научные статьи и монографии</h2>
+    <ul>
+        <li><a href="https://www.elibrary.ru/item.asp?id=23241038" target="_blank">Баранов Е.Ю.: Демографические последствия голода 1930-х</a></li>
+        <li><a href="https://cyberleninka.ru/article/n/iskusstvennoe-preryvanie-beremennostikak-sotsialnaya-praktika-protsess-stanovleniya-v-rossii" target="_blank">Шелест М.В.: Аборты как социальная практика</a></li>
+        <li><a href="https://cyberleninka.ru/article/n/osobennosti-demograficheskoy-politiki-v-rossii-istoriya-i-sovremennost" target="_blank">Илишев Н.К.: Демографическая политика России</a></li>
+        <li><a href="https://normativ.kontur.ru/document?moduleId=1&documentId=217351" target="_blank">Постановление №872 от 1987 г. о детях-сиротах</a></li>
+        <li><a href="https://www.hse.ru/data/2014/09/29/1310908481/Qua_Sha_DS_MSW.pdf" target="_blank">Денисов Б.П., Сакевич В.И.: Контроль рождаемости</a></li>
+        <li><a href="https://cyberleninka.ru/article/n/demograficheskaya-politika-sssr-stalinskogo-perioda-zakonodatelnye-mehanizmy-i-praktika-realizatsii" target="_blank">Дедов С.В.: Демполитика сталинского периода</a></li>
+        <li><a href="https://cyberleninka.ru/article/n/teoriya-i-praktika-demograficheskoy-politiki-v-sssr" target="_blank">Елизаров В.В.: Демполитика СССР</a></li>
+        <li><a href="https://cyberleninka.ru/article/n/gosudarstvennaya-politika-v-oblasti-brachno-semeynyh-otnosheniy-v-sssr-v-gody-velikoy-otechestvennoy-voyny" target="_blank">Телишев В.Ф.: Семейная политика ВОВ</a></li>
+    </ul>
+    
+    <h2>5. Современные источники и законы РФ</h2>
+    <ul>
+        <li><a href="https://ru.wikipedia.org/wiki/Закон_о_запрете_информации,_пропагандирующей_отказ_от_деторождения" target="_blank">ФЗ №411 от 23.11.2024 о пропаганде отказа от детей</a></li>
+        <li><a href="https://ru.wikipedia.org/wiki/Права_ЛГБТ_в_России" target="_blank">Права ЛГБТ в России (Википедия)</a></li>
+        <li><a href="https://www.rbc.ru/politics/22/03/2024/65fd75359a7947fe3e58e2c9" target="_blank">РБК: Политика 2024</a></li>
+        <li><a href="https://ru.wikipedia.org/wiki/Гомосексуальность_поведение_у_животных" target="_blank">Гомосексуальное поведение у животных</a></li>
+        <li><a href="https://www.garant.ru/hotlaw/federal/1591683/" target="_blank">Гарант: Запрет пропаганды</a></li>
+        <li><a href="https://www.newsko.ru/articles/nk-5523909.html" target="_blank">ФЗ №386 от 24.07.2023</a></li>
+        <li><a href="https://ru.wikipedia.org/wiki/Феминизм_в_России" target="_blank">Феминизм в России</a></li>
+        <li><a href="https://roscongress.ru/materials/rezervy-povysheniya-effektivnosti-politiki-po-stimulirovaniya-rozhdaemosti-v-regionakh-rf/" target="_blank">Нагапетян А.: Стимулирование рождаемости</a></li>
+        <li><a href="https://sbersova.ru/sections/lifestyle/demografiya-v-Rossii-i-mery-gosudarstva-po-yeyo-povysheniyu" target="_blank">СберСова: Демография и меры государства</a></li>
+        <li><a href="https://sciencejournals.ru/view-article/?j=vestnik&y=2022&v=92&n=12&a=Vestnik2209008Shabunova" target="_blank">Шабунова А.А., Ростовская Т.К.: Демполитика 2022</a></li>
+    </ul>
+    
+    <h2>Дополнительная литература</h2>
+    <ul>
+        <li><a href="http://www.demoscope.ru/weekly/knigi/andr_dars_khar/adk.html" target="_blank">Андреев Е.М. и др.: Демистория России 1927–1957</a></li>
+        <li><a href="http://www.demoscope.ru/weekly/039/biblio03.php" target="_blank">Бахметова Г.Ш.: Сбор данных о населении</a></li>
+        <!-- Остальные источники аналогично -->
+    </ul>
+</body>
+</html>
